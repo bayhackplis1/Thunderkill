@@ -1,0 +1,22 @@
+{
+  "users": {
+    "6289602541152@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "Dimas",
+      "otp": "-",
+      "email": "-",
+      "serial": "-",
+      "afgan": false,
+      "lastUnregTime": 1734488224812
+    }
+  },
+  "chats": {
+    "6289602541152@s.whatsapp.net": {
+      "antilink": false,
+      "antilinkgc": false,
+      "mute": false
+    }
+  },
+  "others": {},
+  "settings": {}
+}
