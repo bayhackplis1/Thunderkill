@@ -1,9 +1,5 @@
 //BASE BY Pentraa DC
-//DEV Pentra
-//NAMA: Pentraa
-//TRASHER CYBERION V1.0
-//TELEGRAM: t.me/pentradc
-//WHATSAPP: +6285372467957
+//TRADUCCIÓN BY David Chian
 //=================================================//
 const chalk = require('chalk')
 const fs = require("fs")
@@ -19,23 +15,23 @@ global.calender = d.toLocaleDateString("id")
 //===========================//
 
 global.prefa = ["","!",".",",","🐤","🗿"]
-global.owner = ["6285372467957"]//bisa pake no kamu
-global.ownMain = "6285372467957"//bisa pake no kamu
+global.owner = ["6285372467957"]//Puedes usar tu numero.
+global.ownMain = "6285372467957"//Puedes usar tu numero.
 global.NamaOwner = "Pentra"
-global.usePairingCode = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = "Pentradc"
-global.author = "Pentradc"
-global.packname = "thunder | V1.0"
+global.usePairingCode = true // Cambia a Falso <false> si quieres iniciar con QR
+global.namabot = "❨◣_◢❩凸"
+global.author = "❨◣_◢❩凸"
+global.packname = "KillWanay"
 //===========================//
 
-//Global Mess
+//Mensajes Globales 
 global.mess = {
- ingroup: "Hanya bisa di dalam grub",
- admin: "Hanya bisa digunakan oleh admin",
- owner: "Hanya bisa digunakan oleh owner",
- premium: "Hanya bisa digunakan oleh user premium",
- proses: "Proses tuan", 
- success: 'Sukses tuan',
+ ingroup: "🚫 Es𝗍ᥱ ᥴ᥆mᥲᥒძ᥆ s᥆ᥣ᥆ sᥱ ⍴ᥙᥱძᥱ ᥙsᥲr ᥱᥒ grᥙ⍴᥆s",
+ admin: "🚫 Es𝗍ᥱ ᥴ᥆mᥲᥒძ᥆ s᥆ᥣ᥆ ⍴ᥙᥱძᥱ sᥱr ᥙsᥲძ᥆ ⍴᥆r ᥲძmіᥒs",
+ owner: "🚫 Es𝗍ᥱ ᥴ᥆mᥲᥒძ᥆ s᥆ᥣ᥆ ⍴ᥙᥱძᥱ sᥱr ᥙsᥲძ᥆ ⍴᥆r ᥱᥣ ᥆ᥕᥒᥱr",
+ premium: "🚫 S᥆ᥣ᥆ ᥣ᥆s ᥙsᥙᥲrі᥆s ⍴rᥱmіᥙm ⍴ᥙᥱძᥱᥒ ᥙsᥲr ᥱs𝗍ᥱ ᥴ᥆mᥲᥒძ᥆",
+ proses: "💀 Pr᥆sᥱsᥲᥒძ᥆ ᥱs⍴ᥱrᥱ...", 
+ success: '💥 C᥆m⍴ᥣᥱ𝗍ᥲძ᥆!',
 }
 //==================================================//
 let file = require.resolve(__filename)
