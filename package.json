@@ -21,7 +21,7 @@
         "@hapi/boom": "^10.0.0",
         "@tobyg74/tiktok-api-dl": "^1.1.2",
         "@vitalets/google-translate-api": "^9.2.0",
-        "@whiskeysockets/baileys": "github:nstar-y/bail",
+        "@whiskeysockets/baileys": "^6.7.18",
         "api-dylux": "latest",
         "argparse": "latest",
         "awesome-phonenumber": "^2.70.0",
